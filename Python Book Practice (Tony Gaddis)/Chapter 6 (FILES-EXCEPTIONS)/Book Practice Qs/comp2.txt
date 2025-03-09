@@ -1,0 +1,6 @@
+Name: Ali
+ ID : 67
+Dept: bs
+Name: khan
+ ID : 56
+Dept: er

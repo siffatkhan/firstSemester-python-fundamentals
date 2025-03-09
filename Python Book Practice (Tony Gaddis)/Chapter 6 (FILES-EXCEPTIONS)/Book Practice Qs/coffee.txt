@@ -1,0 +1,16 @@
+black
+100.0
+white
+10.0
+aslam
+50.0
+ref
+70.0
+tuie
+90.0
+uio
+90.0
+russian
+80.0
+khan
+50
